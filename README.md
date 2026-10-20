@@ -1,5 +1,5 @@
 # Youtube-Timestamp
-YOUTUBE TIMESTAMP TOOLS - HOW TO INSTALL (2 minutes, no coding)
+YOUTUBE TIMESTAMP TOOLS - HOW TO INSTALL 
 ================================================================
 
 1. EXTRACT this zip file
@@ -28,6 +28,3 @@ YOUTUBE TIMESTAMP TOOLS - HOW TO INSTALL (2 minutes, no coding)
 
 TIP: To hide the panel, press the X on it. To bring it back,
 press the small round red button on the video.
-
-Your loops and skips are saved automatically for every video.
-Nothing is uploaded anywhere - everything stays in your browser.
